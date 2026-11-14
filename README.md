@@ -12,7 +12,7 @@
   <img
     src="assets/profile-description.svg"
     alt="I build web applications end to end — React interfaces, Laravel APIs, and the data layer behind them. Lately shipping tools for recycling and local services."
-    width="100%"
+    width="540"
   />
 </p>
 
@@ -65,7 +65,7 @@
 
 <td align="center" width="34%">
 
-### Frameworks, Libraries & Tools
+### Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
