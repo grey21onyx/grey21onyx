@@ -108,6 +108,14 @@
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution Graph">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
+    <img src="./assets/snake-light.svg" width="100%" alt="An animated snake winding through my GitHub contribution graph">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
