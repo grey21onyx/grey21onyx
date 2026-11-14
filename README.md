@@ -2,10 +2,6 @@
   <img src="./assets/onyx-veil.svg" alt="GREY21ONYX Profile Banner">
 </p>
 
-<table>
-  <tr>
-    <td width="65%" valign="top" align="justify">
-
 <h3>Web developer building practical software — recycling platforms, local service apps, and the details in between.</h3>
 
 <p>
@@ -16,29 +12,24 @@
   />
 </p>
 
-<a href="https://grey21onyx.github.io/Personal">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://lagibutuh.vercel.app">
-  <img src="https://img.shields.io/badge/LagiButuh-0EA5E9?style=flat&logo=vercel&logoColor=white" alt="LagiButuh">
-</a>
-<a href="https://youtu.be/ZTxGYFIn-v8">
-  <img src="https://img.shields.io/badge/Revalio_Demo-FF0000?style=flat&logo=youtube&logoColor=white" alt="Revalio Demo">
-</a>
-<img src="https://komarev.com/ghpvc/?username=grey21onyx&style=flat&color=14b8a6" alt="Profile Views">
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/onyx-mark.svg" width="250" alt="Onyx 21 Monogram">
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://grey21onyx.github.io/Personal">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://lagibutuh.vercel.app">
+    <img src="https://img.shields.io/badge/LagiButuh-0EA5E9?style=flat&logo=vercel&logoColor=white" alt="LagiButuh">
+  </a>
+  <a href="https://youtu.be/ZTxGYFIn-v8">
+    <img src="https://img.shields.io/badge/Revalio_Demo-FF0000?style=flat&logo=youtube&logoColor=white" alt="Revalio Demo">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=grey21onyx&style=flat&color=14b8a6" alt="Profile Views">
+</p>
 
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-    width="100%"
-    alt="Pacman"
-  >
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/neofetch-mobile.svg">
+    <img src="./assets/neofetch-desktop.svg" width="100%" alt="grey21onyx neofetch — web developer, JavaScript PHP Dart, focused on React Laravel Flutter, building Revalio and LagiButuh">
+  </picture>
 </p>
 
 ---
@@ -51,7 +42,7 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### Languages
 
@@ -63,9 +54,9 @@
 
 </td>
 
-<td align="center" width="34%">
+<td align="center" width="50%">
 
-### Frameworks & Tools
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -76,18 +67,27 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<td align="center" width="33%">
-
-### Databases & Backend
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+
+<td align="center" width="50%">
+
+### Tools & Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </td>
 </tr>
@@ -101,32 +101,19 @@
   <img src="./assets/projects.svg" alt="Selected Projects">
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/grey21onyx/Revalio">
-        <img src="./assets/project-revalio.svg" width="100%" alt="Revalio — waste-to-income education platform">
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://lagibutuh.vercel.app">
-        <img src="./assets/project-lagibutuh.svg" width="100%" alt="LagiButuh — Flutter web app for local help">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://grey21onyx.github.io/Personal">
-        <img src="./assets/project-personal.svg" width="100%" alt="Personal — personal branding site on GitHub Pages">
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/grey21onyx?tab=repositories">
-        <img src="./assets/project-more.svg" width="100%" alt="More projects on GitHub">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/grey21onyx/Revalio">
+    <img src="./assets/project-revalio.svg" width="560" alt="Revalio — waste-to-income education platform">
+  </a>
+  <br><br>
+  <a href="https://lagibutuh.vercel.app">
+    <img src="./assets/project-lagibutuh.svg" width="560" alt="LagiButuh — Flutter web app for local help">
+  </a>
+  <br><br>
+  <a href="https://grey21onyx.github.io/Personal">
+    <img src="./assets/project-personal.svg" width="560" alt="Personal — personal branding site on GitHub Pages">
+  </a>
+</p>
 
 <p align="center">
   <sub>More experiments and side quests on <a href="https://github.com/grey21onyx?tab=repositories">GitHub</a>.</sub>
