@@ -1,0 +1,31 @@
+<svg width="700" height="60" viewBox="0 0 700 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Stack">
+  <path
+    d="
+      M 20 10
+      H 30 V 0 H 670 V 10 H 680
+      V 50 H 670 V 60 H 30 V 50 H 20 Z
+    "
+    fill="#0b0d12"
+  />
+
+  <rect
+    x="35"
+    y="15"
+    width="630"
+    height="30"
+    fill="none"
+    stroke="#e5e7eb"
+    stroke-width="4"
+  />
+
+  <text
+    x="350"
+    y="40"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="monospace"
+    font-size="26"
+    font-weight="900"
+    letter-spacing="4"
+  >TECH STACK</text>
+</svg>

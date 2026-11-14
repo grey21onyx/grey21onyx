@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" width="420" height="260" role="img" aria-label="LagiButuh — Flutter web app for local help">
+  <defs>
+    <linearGradient id="pl-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1118"/>
+      <stop offset="1" stop-color="#070910"/>
+    </linearGradient>
+    <linearGradient id="pl-glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="260" rx="14" fill="url(#pl-bg)"/>
+  <rect width="420" height="260" rx="14" fill="none" stroke="#1f2937" stroke-width="1.2"/>
+  <rect x="0" y="0" width="420" height="3" fill="#38bdf8"/>
+  <path d="M420 0 L420 130 L300 0 Z" fill="url(#pl-glow)"/>
+
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="28" y="48" font-size="10" fill="#38bdf8" letter-spacing="2.5">02 / LIVE</text>
+    <circle cx="378" cy="45" r="3" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="392" y="48" text-anchor="end" font-size="10" fill="#64748b" letter-spacing="1">WEB</text>
+  </g>
+
+  <g font-family="'Fraunces', 'Playfair Display', Georgia, serif">
+    <text x="28" y="102" font-size="38" font-style="italic" fill="#f8fafc">LagiButuh</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#94a3b8">
+    <text x="28" y="136">Flutter web release for finding</text>
+    <text x="28" y="156">local help around you.</text>
+  </g>
+
+  <g font-family="'JetBrains Mono', ui-monospace, monospace" font-size="9.5" fill="#cbd5e1" letter-spacing="1.6">
+    <text x="28" y="214">FLUTTER · SUPABASE · VERCEL</text>
+  </g>
+
+  <line x1="28" y1="228" x2="392" y2="228" stroke="#1f2937" stroke-width="1"/>
+  <text x="392" y="214" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" fill="#38bdf8">↗</text>
+</svg>

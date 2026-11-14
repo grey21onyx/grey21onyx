@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="I build web applications end to end — React interfaces, Laravel APIs, and the data layer behind them. Lately shipping tools for recycling and local services.">
+  <defs>
+    <linearGradient id="pd-accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" rx="12" fill="#0b0d12"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="198.5" rx="11.25" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  <rect x="0" y="28" width="3" height="144" fill="url(#pd-accent)"/>
+
+  <style>
+    .text {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 34px;
+      fill: #e5e7eb;
+    }
+    .react {
+      fill: #61DAFB;
+      font-weight: 700;
+    }
+    .laravel {
+      fill: #FF2D20;
+      font-weight: 700;
+    }
+    .muted {
+      fill: #94a3b8;
+      font-size: 27px;
+    }
+  </style>
+
+  <text class="text" x="32" y="48">I build web applications end to end —</text>
+  <text class="text" x="32" y="92"><tspan class="react">React</tspan><tspan> interfaces, </tspan><tspan class="laravel">Laravel</tspan><tspan> APIs, and the data</tspan></text>
+  <text class="text" x="32" y="136">layer behind them.</text>
+  <text class="text muted" x="32" y="178">Lately shipping tools for recycling and local services.</text>
+</svg>
