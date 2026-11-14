@@ -62,7 +62,7 @@
     <text x="490" y="166">STACK</text>
     <text x="490" y="200">FOCUS</text>
     <text x="490" y="234">BUILDING</text>
-    <text x="490" y="268">REPOS</text>
+    <text x="490" y="268">STATS</text>
     <text x="490" y="302">SINCE</text>
   </g>
 
@@ -71,7 +71,7 @@
     <text x="640" y="166">JavaScript · PHP · Dart</text>
     <text x="640" y="200">React · Laravel · Flutter</text>
     <text x="640" y="234">Revalio · LagiButuh</text>
-    <text x="640" y="268">5 public repositories</text>
+    <text x="640" y="268" id="stat-value">5 repos · 1 star · 4 followers</text>
     <text x="640" y="302">2023</text>
   </g>
 
