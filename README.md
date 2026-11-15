@@ -19,9 +19,6 @@
   <a href="https://lagibutuh.vercel.app">
     <img src="https://img.shields.io/badge/LagiButuh-0EA5E9?style=flat&logo=vercel&logoColor=white" alt="LagiButuh">
   </a>
-  <a href="https://youtu.be/ZTxGYFIn-v8">
-    <img src="https://img.shields.io/badge/Revalio_Demo-FF0000?style=flat&logo=youtube&logoColor=white" alt="Revalio Demo">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=grey21onyx&style=flat&color=14b8a6" alt="Profile Views">
 </p>
 
