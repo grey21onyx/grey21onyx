@@ -78,10 +78,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/grey21onyx/Revalio">
-    <img src="./assets/project-revalio.svg" width="560" alt="Revalio — waste-to-income education platform">
-  </a>
-  <br><br>
   <a href="https://lagibutuh.vercel.app">
     <img src="./assets/project-lagibutuh.svg" width="560" alt="LagiButuh — Flutter web app for local help">
   </a>
