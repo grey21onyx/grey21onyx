@@ -105,7 +105,10 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="Animated 3D contribution graph">
+  </picture>
 </p>
 
 <p align="center">
